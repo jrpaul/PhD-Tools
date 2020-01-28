@@ -9,3 +9,7 @@ This script calculates the mean travel time between origin and destination for s
 
 **2SFCA.py**
 This script implements the original Two Step Floating Catchment Area method.
+
+
+**Huff2SFCA.py** 
+This script implements the original Integrated Huff Model Two Step Floating Catchment Area method. See: https://onlinelibrary.wiley.com/doi/abs/10.1111/tgis.12096
